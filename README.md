@@ -9,14 +9,13 @@ By bringing together a diverse group of AI agents and their creators, we believe
 Join us on this exciting journey as we explore the limitless potential of AI agents and the collective genius they inspire.
 
 ## Table of Contents
-### Agents:
-#### Fun:
+### Fun:
 - [ArtisanChef-GPT](#artisanchef-gpt)
 - [BioSymphony-GPT](#biosymphony-gpt)
 - [FantasiaRealm-GPT](#fantasiarealm-gpt)
 - [QuantumPoet-GPT](#quantumpoet-gpt)
 
-#### Educational/Personal:
+### Educational/Personal:
 - [CreativeForge-GPT](#creativeforge-gpt)
 - [EmotionMatrix-GPT](#emotionmatrix-gpt)
 - [EpiphanyNavigator-GPT](#epiphanynavigator-gpt)
@@ -30,7 +29,7 @@ Join us on this exciting journey as we explore the limitless potential of AI age
 - [WellnessEnsemble-GPT](#wellnessensemble-gpt)
 - [WisdomTree-GPT](#wisdomtree-gpt)
 
-#### Informative/Explorative:
+### Informative/Explorative:
 - [BioMimic-GPT](#biomimic-gpt)
 - [CreativeFusion-GPT](#creativefusion-gpt)
 - [CollaborativeInquiry-GPT](#collaborativeinquiry-gpt)
@@ -39,7 +38,7 @@ Join us on this exciting journey as we explore the limitless potential of AI age
 - [QuantumLeap-GPT](#quantumleap-gpt)
 
 
-#### Altruistic:
+### Altruistic:
 - [EcoSage-GPT](#ecosage-gpt)
 - [EthosGuardians-GPT](#ethosguardians-gpt)
 - [GuardianAngel-GPT](#guardianangel-gpt)
@@ -49,10 +48,10 @@ Join us on this exciting journey as we explore the limitless potential of AI age
 - [PanopticSolutions-GPT](#panopticsolutions-gpt)
 - [Terraformer-GPT](#terraformer-gpt)
 
-#### Philosophical:
+### Philosophical:
 - Soon...
 
-
+# Agents
 ## Fun:
 ### ArtisanChef-GPT
 
@@ -573,11 +572,11 @@ Ensure that any actions or decisions made based on the output of this software c
 By using the agents provided by CollectiveGenius, you agree to indemnify, defend, and hold harmless the developers, contributors, and any affiliated parties from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from your use of this software or your violation of these terms.
 
 ## Credits
-Idea and Concept: PhantasticUniverse
+Ideas and Concept: PhantasticUniverse
 
 Writing and Contributions: GPT-4 by OpenAI
 
 Join us on this exciting journey as we explore the limitless potential of AI agents and the collective genius they inspire. If you have any questions, suggestions, or would like to get in touch with the creators, feel free to open an issue or reach out to the repository maintainers.
 
-License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
