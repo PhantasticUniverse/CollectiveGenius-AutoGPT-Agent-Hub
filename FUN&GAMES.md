@@ -1,9 +1,9 @@
 ## Fun & Games:
-- [ArtisanChef-GPT](#artisanchef-gpt)
-- [BioSymphony-GPT](#biosymphony-gpt)
-- [FantasiaRealm-GPT](#fantasiarealm-gpt)
-- [QuantumPoet-GPT](#quantumpoet-gpt)
-- [TimeWarp-GPT](#timewarp-gpt)
+- [ArtisanChef-GPT](#artisanchef-gpt) (Interactive)
+- [BioSymphony-GPT](#biosymphony-gpt) (Interactive)
+- [FantasiaRealm-GPT](#fantasiarealm-gpt) (Interactive)
+- [QuantumPoet-GPT](#quantumpoet-gpt) (Autonomous)
+- [TimeWarp-GPT](#timewarp-gpt) (Autonomous)
 
 ### ArtisanChef-GPT
 
